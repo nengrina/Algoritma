@@ -1,0 +1,313 @@
+- download aplikasi game lightboth
+- pasang aplikasi game tersebut di HP android
+- kemudian buka gamenya
+- mainkan gamenya
+
+1. Basic
+	1-1 - maju satu petak
+	    - maju satu petak
+	    - nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	1-2 - maju kedepan dua petak
+	    - kemudian belok ke kiri
+	    - maju lagi kedepan dua petak
+	    - belok ke kiri
+	    - kemudian nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	1-3 - klik gambar spiral untuk melompat
+	    - klik belok ke kanan
+	    - klik gambar spiral untuk melompat
+	    - klik belok ke kanan
+	    - klik gambar spiral untuk melompat
+	    - kemudian nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	1-4 - maju kedepan dua petak
+	    - belok ke kiri
+	    - klik gambar spiral empat kali untuk melompat
+	    - kemudian nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	1-5 - nyalakan lampu terlebih dahulu
+	    - klik gambar spiral untuk melompat
+	    - maju satu petak
+	    - belok ke kiri
+	    - maju satu petak
+	    - nyalakan lampu
+	    - klik gambar spiral untuk melompat
+	    - belok ke kiri
+	    - maju kedepan dua petak
+	    - kemudian nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+	    
+	1-6 - klik gambar spiral untuk melompat
+	    - belok ke kiri
+	    - maju satu petak
+	    - klik gambar spiral untuk melompat
+	    - nyalakan lampu
+	    - belok ke kiri
+	    - maju kedepan dua petak
+	    - belok ke kanan
+	    - klik gambar spiral untuk melompat
+	    - maju satu petak
+	    - kemudian nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	1-7 - maju satu petak
+	    - kemudian belok ke kiri
+	    - klik gambar spiral untuk melompat
+	    - nyalakn lampu
+	    - klik gambar spiral untuk melompat 
+	    - nyalakan lampu
+	    - belok ke kiri
+	    - klik gambar spiral untuk melompat
+	    - nyalakan lampu
+	    - belok ke kiri
+	    - klik gambar spiral untuk melompat
+	    - nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	1-8 - klik gambar spiral dua kali untuk melompat dua kali
+	    - belok ke kanan
+	    - maju satu petak
+	    - belok ke kiri
+	    - klik gambar spiral untuk melompat
+	    - belok ke kiri
+	    - nyalakan lampu
+	    - maju satu petak
+	    - nyalakan lampu
+	    - klik gambar spiral untuk melompat
+	    - nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+2. procedures
+	2-1 - maju kedepan sebanyak tiga petak
+	    - nyalakan lampu
+	    - belok ke kanan
+	    - maju kedepan sebanyak tiga petak
+	    - nyalakan lampu
+	    - belok ke kanan
+	    - maju satu petak
+	    - klik P1: - maju kedepan sebanyak dua petak
+		       - nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	2-2 - maju satu langkah 
+	    - belok ke kiri
+	    - maju satu langkah 
+	    - belok ke kanan
+	    - maju satu langkah 
+	    - belok ke kiri
+	    - maju satu langkah 
+	    - belok ke kanan 
+	    - maju satu langkah 
+	    - belok ke kiri
+	    - maju satu langkah
+	    - klik P1 
+		isi P1:- belok ke kanan
+		       - maju satu langkah
+		       - belok ke kiri
+		       - maju satu langkah
+		       - kemudian nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	2-3 - maju kedepan sebanyak tigapetak
+	    - nyalakan lampu
+	    - belok ke kiri
+	    - klik gambar spiral untuk melompat
+	    - belok ke kiri
+	    - maju kedepan sebanyak tiga petak
+	    - nyalakan lampu
+	    - klik P1
+		isi P1 :- belok ke kanan
+			- klk gambar spiral untuk melompat satu petak
+			- belok ke kanan
+			- maju kedepan sebanyak tiga petak
+			- kemudian nyalakan lampu
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	2-4 - klik P1
+		isi P1 :- maju satu petak
+			- nyalakan lampu
+			- maju satu petak
+			- nyalakan lampu
+			- maju satu petak
+			- nyalakan lampu
+			- maju satu petak
+			- nyalakan lampu
+ 	     - klik P2
+		isi P2 :- belok ke kanan
+			- maju dua petak
+			- belok ke kanan
+	     - klik P1
+		isi P1 :- maju satu petak
+			- nyalakan lampu
+			- maju satu petak
+			- nyalakan lampu
+			- maju satu petak
+			- nyalakan lampu
+			- maju satu petak
+			- nyalakan lampu
+	      - belok ke kanan
+	      - maju dua petak
+	      - belok ke kanan
+	      - klik P1
+		isi P1 :- maju satu petak
+			- nyalakan lampu
+			- maju satu petak
+			- nyalakan lampu
+			- maju satu petak
+			- nyalakan lampu
+			- maju satu petak
+			- nyalakan lampu
+	      - Klik tanda play untuk menjalankan robot
+	      - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	2-5 - klik P1 
+		isi P1 :- nyalakan lampu
+			- klik gambar spiral untuk melompat satu kali
+			- nyalakan lampu
+			- klik gambar spiral untuk melompat satu kali
+			- nyalakan lampu
+			- klik gambar spiral untuk melompat satu kali
+	    - klik P2
+		isi P2 :- belok ke kanan dua kali
+			- klik gambar spiral dua kali untuk melompat dua kali
+			- belok ke kanan
+			- klik gambar spiral untuk melompat satu petak
+			- maju satu petak
+			- belok ke kanan
+	    - klik P1, isi P1 sama seperti di atas
+	    - klik P2, isi P2 sama seperti di atas
+	    - klik P1, isi P1 sama seperti di atas
+	    - klik P2, isi P2 sama seperti di atas
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	2-6 - klik P1
+		isi P1: - klik P2
+			    isi P2:- maju satu petak
+				   - nyalakan lampu
+				   - belok ke kiri
+				   - maju satu petak
+				   - nyalakan lampu
+				   - belok ke kiri
+				   - maju satu petak
+				   - nyalakan lampu
+			- belok ke kiri
+		        - maju satu petak
+		        - belok ke kiri
+			- nyalakan lampu
+			- maju satu petak
+			- klik gambar spiral dua kali untuk melompat dua kali
+	    - maju satu petak
+	    - belok ke kiri
+	    - klik P1, isi P1 seperti di atas
+	    - maju satu petak
+	    - belok ke kiri
+	    - klik P1, isi seperti di atas
+	    - maju satu petak
+	    - belok ke kiri
+	    - klik P1, isi seperti di atas
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+3. Loops
+	3-1 - isi kolom P1:
+		- klik maju satu petak
+		- klik tanda lampu
+		- klik P1
+	    - isi kolom main :
+		- klik P1
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	3-2 - isi kolom P1:
+		- klik gambar spiral untuk melompat satu petak
+		- klik tanda lampu
+		- klik P1
+	    - isi kolom main:
+		- klik P1
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	3-3 - isi kolom P1:
+		- maju satu petak
+		- klik tanda lampu
+		- klik belok ke kiri
+		- maju satu petak
+		- klik gambar spiral untuk melompat satu petak
+		- klik tanda lampu
+		- klik gambar spiral untuk melompat satu petak
+		- klik P1
+	    - isi kolom main:
+		- klik P1
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+	    
+	3-4 - isi kolom P1:
+		- klik tanda lampu
+		- maju satu petak
+		- belok ke kiri
+		- maju satu petak
+		- klik tanda lampu
+		- belok ke kanan
+		- klik tanda lampu
+		- klik P1
+	    - isi kolom mai:
+		- klik P1
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	3-5 - isi kolom P1:
+		- klik gambar spiral untuk melompat satu petak
+		- klik tanda lampu
+		- belok ke kiri
+		- klik tanda lampu
+		- klik P2
+	    - isi kolom P2:
+		- klik tanda lampu
+		- klik gambar spiral untuk melompat satu petak
+		- klik tanda lampu
+		- maju satu petak
+		- klik tanda lampu
+		- maju satu petak
+		- klik tanda lampu
+		- klik P1
+	    - isi kolom main:
+		- klik P2
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
+
+	3-6 - isi kolom main:
+		klik P1: - klik tanda lampu
+			 - klik gambar spiral untuk melompat satu petak
+			 - belok ke kiri
+			 - maju satu petak
+			 - klik tanda lampu
+			 - belok ke kanan
+			 - klik gambar spiral untuk melompat satu petak
+			 - klik P2:
+				- belok ke kanan
+				- maju satu petak
+				- belok ke kiri
+				- klik gambar spiral dua kali
+				- belok ke kiri
+				- klik P1
+	    - Klik tanda play untuk menjalankan robot
+	    - klik tanda panah berwarna hijau untuk ke langkah berikutnya
